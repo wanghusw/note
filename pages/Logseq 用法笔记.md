@@ -2,7 +2,7 @@
 	- ➡2022-10-27 First video on Logseq
 	- 2022-10-27 `query` 和 `properties` 未进行深入的研究
 	- 2022-10-27 读完 Glossary，下次开始读 Testimonials
-	-
+	- 2022-11-01 读到 Features - Templates
 - 输入 `td` 可以切换「文档模式」和「默认模式（大纲模式）」。202108161432
   id:: 634e3658-26de-4dfa-bee6-d6adf456f38a
 - 在插入本地图片连接的时候，`[]` 中不能有 `%` 等特殊符号。2022-10-09 15:41:17
@@ -27,6 +27,7 @@
   ```
 - `right sidebar` 可以作为页面预览使用。2022-10-27 16:07:30
 - 按 `Esc` 可以退出编辑模式。2022-10-27 16:08:58
+- 按 `Ctrl` + `-`，缩小页面比例，按 `Ctrl` + `Shift` + `+`，扩大页面比例。2022-10-31 14:26:22
 - PC 和安卓同步软件：[Syncthing](https://syncthing.net/)
 - 版本控制：[使用Kopia来备份obsidian by 软通达 - Obsidian中文教程 - Obsidian Publish](https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/%E4%BD%BF%E7%94%A8Kopia%E6%9D%A5%E5%A4%87%E4%BB%BDobsidian+by+%E8%BD%AF%E9%80%9A%E8%BE%BE)
 - [[未读列表]]
@@ -39,6 +40,8 @@
 	- [Logseq | 开源知识管理系统](https://mp.weixin.qq.com/s?__biz=MzU4NTgyNDUxNw==&mid=2247485303&idx=1&sn=43ccd6b648018c595b64d1a92435efb6&chksm=fd85e71dcaf26e0bd1156edc3a8cdc12f3c55682393d693638299b6cdec9e8d79ed1d6a53c16&scene=27)
 - [[已读列表]]
 	- [Kopia教程：一个开源文件备份工具 - 经验分享 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/3944)
+	- [简悦 + Logseq + Github Page 无代码全自动化知识管理发布方案 - 知乎](https://zhuanlan.zhihu.com/p/467192292) [🔎](es://202210271758_%E7%AE%80%E6%82%A6%20_%20Logseq%20_%20Github%20Page%20%E6%97%A0%E4%BB%A3%E7%A0%81%E5%85%A8%E8%87%AA%E5%8A%A8%E5%8C%96%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E5%8F%91%E5%B8%83%E6%96%B9%E6%A1%88%20-%20%E7%9F%A5%E4%B9%8E) [🖨](file://D:\Wanghu\Attachment\202210271758_简悦 _ Logseq _ Github Page 无代码全自动化知识管理发布方案 - 知乎.html)
+	  📦[knowledge-garden-main](file://D:\Wanghu\Attachment\knowledge-garden-main.zip) 文章中提到的源文件
 - 资源
 	- [Logseq 官方论坛](https://discuss.logseq.com/)
 	- [Logseq 中文社区](https://cn.logseq.com/)
