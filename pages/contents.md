@@ -15,3 +15,6 @@
 			- [Kenshin's Note](https://kenshin.wang/note)
 			  id:: 61fe1b3a-8356-4f20-b8f1-f5f4ed21ee7b
 - [[Logseq 用法笔记]]
+- [[《卡片笔记写作法：如何实现从阅读到写作》读书笔记]]
+- <kbd>bc</kbd>
+-
