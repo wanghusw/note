@@ -1,3 +1,4 @@
+- 💾 版本号：20230309162625
 - [Logseq 文档](https://docs.logseq.com/#/page/Contents) 阅读进度
 	- ➡2022-10-27 First video on Logseq
 	- 2022-10-27 `query` 和 `properties` 未进行深入的研究
