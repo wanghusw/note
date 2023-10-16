@@ -6,17 +6,3 @@
 .ls-block[haschild] > div > .block-content-wrapper::before {
       left: -13px;
 }
-.CodeMirror {
-   font-family: "Fira Mono";
-   font-size: 30px
-}
-.CodeMirror pre.CodeMirror-line,
-.CodeMirror-gutter,
-.CodeMirror-gutters,
-.CodeMirror-linenumber,
-.CodeMirror-scroll,
-.CodeMirror-sizer,
-.CodeMirror {
-  font-size: 14px !important;
-  line-height: 1.5;
-}
