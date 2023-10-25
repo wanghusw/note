@@ -158,4 +158,5 @@
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["Contents" "日历" "Logseq 用法笔记" "react hot module reloading" "jsplay"]
  :graph/settings {:builtin-pages? false}
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :ui/auto-expand-block-refs? false}

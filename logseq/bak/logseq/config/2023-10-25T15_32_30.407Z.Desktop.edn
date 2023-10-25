@@ -156,6 +156,6 @@
  :ui/show-brackets? false
  :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["react hot module reloading" "jsplay"]
+ :favorites ["Contents" "日历" "Logseq 用法笔记" "react hot module reloading" "jsplay"]
  :graph/settings {:builtin-pages? false}
  :publishing/all-pages-public? true}
