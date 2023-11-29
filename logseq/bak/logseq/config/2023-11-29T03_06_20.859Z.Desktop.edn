@@ -152,11 +152,12 @@
  :markdown/version 2
  :shortcuts {:ui/toggle-contents "meta+shift+c"}
  :feature/enable-journals? false
- :default-home {:page "Contents"}
+ :default-home {:page "🌱王虎的数字花园"}
  :ui/show-brackets? false
  :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["Contents" "日历" "Logseq 用法笔记" "react hot module reloading" "jsplay"]
+ :favorites ["王虎的数字花园" "Contents" "日历" "Logseq 用法笔记" "react hot module reloading" "jsplay"]
  :graph/settings {:builtin-pages? false}
  :publishing/all-pages-public? true
- :ui/auto-expand-block-refs? true}
+ :ui/auto-expand-block-refs? false
+ :feature/enable-flashcards? false}
