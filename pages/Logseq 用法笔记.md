@@ -29,6 +29,7 @@
 - `right sidebar` 可以作为页面预览使用。2022-10-27 16:07:30
 - 按 `Esc` 可以退出编辑模式。2022-10-27 16:08:58
 - 按 `Ctrl` + `-`，缩小页面比例，按 `Ctrl` + `Shift` + `+`，扩大页面比例。2022-10-31 14:26:22
+- 在 Mac 上新建窗口，可以按住 Shift 点击要切换的图谱。2024-04-05 09:39:01 ℹ️ [can't open multiple windows after upgrading.](https://github.com/logseq/logseq/issues/11120)
 - PC 和安卓同步软件：[Syncthing](https://syncthing.net/)
 - 版本控制：[使用Kopia来备份obsidian by 软通达 - Obsidian中文教程 - Obsidian Publish](https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/%E4%BD%BF%E7%94%A8Kopia%E6%9D%A5%E5%A4%87%E4%BB%BDobsidian+by+%E8%BD%AF%E9%80%9A%E8%BE%BE)
 - 备忘
