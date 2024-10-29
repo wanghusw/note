@@ -156,7 +156,7 @@
  :ui/show-brackets? false
  :journal/page-title-format "yyyy-MM-dd"
  :journal/file-name-format "yyyy-MM-dd"
- :favorites ["王虎的数字花园" "Contents" "日历" "Logseq 用法笔记" "react hot module reloading" "jsplay"]
+ :favorites ["🗓️日历" "王虎的数字花园" "日历" "Logseq 用法笔记" "react hot module reloading" "jsplay"]
  :graph/settings {:builtin-pages? false}
  :publishing/all-pages-public? true
  :ui/auto-expand-block-refs? false
